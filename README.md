@@ -1,5 +1,6 @@
 # Johnswap-and-ITTC-Spectra-Calculation
 In case of a change in sea condition, zero crossing period and significant wave height values should change.
+
 -A value other than 0 should be selected as the smallest frequency value. Otherwise, the value is infinite in obtaining the spectra and the result gives an error.
 
 GUI:
