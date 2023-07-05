@@ -3,13 +3,15 @@ In case of a change in sea condition, zero crossing period and significant wave 
 
 -A value other than 0 should be selected as the smallest frequency value. Otherwise, the value is infinite in obtaining the spectra and the result gives an error.
 
-- You have to clear results if you performed analysis before and want to perform new one
+- You have must results if you performed analysis before and want to perform a new one
 
 GUI:
 
-![image](https://user-images.githubusercontent.com/104154215/227079323-5c0d6ab0-8dd6-46f8-ad0b-0d9c7698b90f.png)
+![image](https://github.com/kaganbozali/Johnswap-and-ITTC-Spectra-Calculation/assets/104154215/64d3a3e6-97b9-4cbf-985d-4b7a2e7893f4)
 
-![image](https://user-images.githubusercontent.com/104154215/227080003-da3e1763-441a-43b1-8c23-3eb4c738fd96.png)
+
+![image](https://github.com/kaganbozali/Johnswap-and-ITTC-Spectra-Calculation/assets/104154215/161f8bb7-95e9-47e5-918f-d29b7d59ab3d)
+
 
 
 
