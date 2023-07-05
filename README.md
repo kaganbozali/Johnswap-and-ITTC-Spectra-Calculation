@@ -24,5 +24,5 @@ GUI:
 Notes :
 
 - A value other than 0 should be selected as the smallest frequency value. Otherwise, the value is infinite in obtaining the spectra and the result gives an error.
-- You have must results if you performed analysis before and want to perform a new one
+- You must clear the results if you performed analysis before and want to perform a new one
 - In case of a change in sea condition, zero crossing period and significant wave height values should change.
