@@ -12,13 +12,13 @@ Steps to Obtain Wave Spectra:
 GUI:
 
 ![image](https://github.com/kaganbozali/Johnswap-and-ITTC-Spectra-Calculation/assets/104154215/64d3a3e6-97b9-4cbf-985d-4b7a2e7893f4)
-                                              **Fig 1. Clear Screen View**
+                                              **Fig 1.** Clear Screen View
 
 ![image](https://github.com/kaganbozali/Johnswap-and-ITTC-Spectra-Calculation/assets/104154215/e6d4f7fe-b319-4327-a75d-2e20f7e8249f)
-                                    **Fig 2. Results with Enough Intervals to Converge**
+                                    **Fig 2.** Results with Enough Intervals to Converge
 
 ![image](https://github.com/kaganbozali/Johnswap-and-ITTC-Spectra-Calculation/assets/104154215/21f0db23-ed19-49ff-a1f0-6c4e8f62efcf)
-                                        **Fig 3. Results with Convergence Issue**
+                                        **Fig 3.** Results with Convergence Issue
 
 
 Notes :
