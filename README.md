@@ -3,6 +3,8 @@ In case of a change in sea condition, zero crossing period and significant wave 
 
 -A value other than 0 should be selected as the smallest frequency value. Otherwise, the value is infinite in obtaining the spectra and the result gives an error.
 
+- You have to clear results if you performed analysis before and want to perform new one
+
 GUI:
 
 ![image](https://user-images.githubusercontent.com/104154215/227079323-5c0d6ab0-8dd6-46f8-ad0b-0d9c7698b90f.png)
